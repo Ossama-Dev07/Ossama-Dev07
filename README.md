@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">I'm youssef from morocco <br><br>- 🔭 I’m web full stack developer <br>- 📚 I'm currently learning laravel and react <br>- ⚡ In my free time I play kickboxing , learn java , watch anime</p>
+<p align="left">I'm Ossama from Morocco <br><br>- 🔭 I’m a full-stack web developer <br>- 📚 I'm currently enhancing my skills in Laravel and React</p>
 
 ###
 
@@ -44,7 +44,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//laravel/laravel-original.svg" height="40" alt="kubernetes logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="docker logo"  />
 </div>
 
 ###
